@@ -1,0 +1,21 @@
+{
+  "posts": [
+    { "userId": "a1","id": 1, "title": "Judul Berita 1" , "body": "peraturan imei kemenperin"},
+    { "userId": "b1","id": 2, "title": "Judul Berita 2" , "body": "igojek menggunakan linkaja"},
+	{ "userId": "b1","id": 3, "title": "Judul Berita 3" , "body": "ovo menjadi unicorn ke 5"},
+	{ "userId": "a2","id": 4, "title": "Judul Berita 4" , "body": "indonesia mempunyai 5 startup unicorn"},
+	{ "userId": "a2","id": 5, "title": "Judul Berita 5" , "body": "facebook tidak lagi gratis"},
+	{ "userId": "a3","id": 6, "title": "Judul Berita 6" , "body": "isu World War III"},
+	{ "userId": "a3","id": 7, "title": "Judul Berita 7" , "body": "realme rilis ponsel realme 5i"},
+	{ "userId": "a2","id": 8, "title": "Judul Berita 8" , "body": "xiaomi release ponsel mi note 10 pro"},
+	{ "userId": "a1","id": 9, "title": "Judul Berita 9" , "body": "indonesia waspada di perairan natuna"},
+	{ "userId": "a3","id": 10, "title": "Judul Berita 10" , "body": "daftar terbaru kenaikan UMK jawa timur"}
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "trisna"
+  }
+}
